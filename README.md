@@ -1,2 +1,2 @@
 # aircnc
-Airbnb app clone using reactjs and nodejs
+Airbnb app clone
